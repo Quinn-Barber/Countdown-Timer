@@ -1,2 +1,2 @@
 # Countdown-Timer
-First JavaScript Project!
+First project using JavaScript!
